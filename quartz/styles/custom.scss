@@ -1,3 +1,28 @@
 @use "./base.scss";
 
+.article-title {
+    font-weight: 100;
+    font-size: 3rem;
+    line-height: 1;
+}
+
+.content-meta {
+    line-height: 3.5rem;
+}
+
+.search {
+    max-width: 20rem;
+}
+
+.graph {
+    display: none;
+}
+
+.popover-hint,
+p {
+    line-height: 2.3;
+    margin-top: 2.3rem;
+    margin-bottom: 2.3rem;
+}
+
 // put your custom CSS here!
