@@ -1,10 +1,24 @@
 ---
-title: My Learning Bulletin
+title: Learning Bulletin
 ---
-Add a brief introductory description.
+### Greetings!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ullamcorper ex diam, eget interdum dui euismod porttitor. Proin et pulvinar quam. Nulla pulvinar, enim in molestie tempus, dolor velit congue metus, eget venenatis orci est in orci. Donec ut congue sem. Ut pulvinar tempor nulla. Duis pulvinar condimentum magna. Phasellus fringilla, mi eu convallis fermentum, lorem ligula posuere arcu, ut dapibus massa quam et libero. Donec imperdiet consequat pharetra. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus in ante in libero ultricies finibus.
+Welcome to my corner of the web! I don't know how you did it, but I'm glad you've found your way here.
 
-Nunc scelerisque neque arcu, ut sollicitudin ante iaculis tempus. Ut pulvinar augue sem, quis imperdiet purus laoreet ac. Curabitur sodales erat vitae facilisis congue. In mauris velit, blandit a placerat pretium, laoreet nec augue. Duis facilisis nunc at lorem placerat accumsan. Maecenas aliquet risus urna, sit amet condimentum libero dapibus ac. Donec posuere dui id quam porta sagittis. Fusce luctus odio vitae justo imperdiet condimentum. Donec eget ipsum leo. Duis at dolor vel tellus bibendum imperdiet et eu elit. Maecenas lacinia porttitor diam in mollis. Ut ut libero lorem. Sed vel eros non ante rutrum sollicitudin sed sit amet lorem. Sed malesuada quam orci, eu mattis nunc tristique ut. Phasellus id malesuada felis. Aenean pulvinar eu nisi vel luctus.
+I'd like to avoid calling this a blog, as I don't have a specific theme to address. It's more about publishing whatever comes to my mind. I'm excited to explore tons of topics here. It *could be about anything*, from reflections on what I read to notes from my daily learning.
 
-Vestibulum pharetra rhoncus erat, vitae hendrerit odio varius ut. Suspendisse vulputate leo consequat nisi pharetra, ultrices tempus orci convallis. Sed eu eros ullamcorper purus elementum lobortis. Cras id mauris iaculis, egestas magna id, ullamcorper nulla. Praesent in tincidunt erat. Integer quis turpis nec lectus aliquam feugiat vitae id lectus. Integer velit neque, elementum ut turpis quis, commodo imperdiet ligula. Ut enim augue, dignissim imperdiet diam a, luctus venenatis dolor.
+Now that you are here, let me share a bit about what you can find.
+
+---
+### What can you find here?
+
+I started this new project in April 2024. You will see there are only a few posts here, but I hope this will be well-filled some months from now.
+
+Each day, an endless curiosity and a passionate interest in knowledge motivate me.
+
+This passion is the main reason why the first (and only - at least for now) section is my [[Today I Learned]] log (shortened in **[[TIL]]**). I ~~copied~~ took inspiration from [jbranchaud](https://github.com/jbranchaud/til). He did a fantastic job in his GitHub, and I hope my work will be as good in the future.
+
+---
+### What you might expect from me?
+
+This project is still taking root. I have many ideas to write about but need more time to explore them properly. I promise you'll see something more.
