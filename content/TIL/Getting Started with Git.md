@@ -1,6 +1,6 @@
 ---
 title: Getting Started with Git
-draft: true
+draft: false
 tags:
   - git
   - versioning
