@@ -15,8 +15,14 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <hr />
         <p>
-          MP © {year} | {i18n(cfg.locale).components.footer.createdWith}{" "}
-          <a href="https://quartz.jzhao.xyz/">Quartz</a>
+          {i18n(cfg.locale).components.footer.createdWith}{" "}
+          <a href="https://quartz.jzhao.xyz/">Quartz</a> | <a 
+          href="https://www.iubenda.com/privacy-policy/40609221" 
+          class="iubenda-black iubenda-noiframe iubenda-embed iubenda-noiframe " 
+          title="Privacy Policy ">Privacy Policy</a> | <a 
+          href="https://www.iubenda.com/privacy-policy/40609221/cookie-policy" 
+          class="iubenda-black iubenda-noiframe iubenda-embed iubenda-noiframe " 
+          title="Cookie Policy ">Cookie Policy</a> | MP © {year}
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
