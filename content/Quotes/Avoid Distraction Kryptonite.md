@@ -5,7 +5,8 @@ tags:
   - use-of-phone
   - actions
 title: Avoid Distraction Kryptonite
-draft:
+draft: 
+date: 2024-04-13
 ---
 Have you ever promised yourself to use your phone for just a minute, only to end up spending more than an hour on it?
 
