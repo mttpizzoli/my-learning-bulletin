@@ -4,7 +4,7 @@ tags:
 date: 2024-03-29
 type: til-note
 title: Sometimes What You Learn in the Past Turns Useful
-draft: true
+draft: false
 ---
 # Sometimes, What You Learn in the Past Turns Useful
 
