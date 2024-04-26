@@ -21,3 +21,4 @@ On this page, I try to organize all my TIL notes by topic. I hope I won't miss a
 
 ## Project Management
 - [[Introduction to Process Management]]
+- [[Notes on Procurement]]
