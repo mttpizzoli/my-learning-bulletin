@@ -5,7 +5,6 @@ tags:
   - buy
   - sell
   - buyer
-  - "#_/WIP"
 type: til-note
 date: 2024-04-21
 draft: false
