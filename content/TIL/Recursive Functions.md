@@ -14,6 +14,7 @@ This is very practical for tasks that can be broken down into similar subtasks. 
 If you let $n$ a natural number,  the factorial of $n$ would be:
 
 $$n! = n\cdot(n+1)\cdot(n-2)\dots2\cdot1 $$
+
 It's easy to notice that you can simplify the problem by writing that $n$ factorial is equal to $n$ times $(n-1)$ factorial.
 $$n! = n\cdot(n-1)!$$
 The latter formula already shows that there is a factorial operator on both sides of the equation. This implies that recursive functions can be applied.
