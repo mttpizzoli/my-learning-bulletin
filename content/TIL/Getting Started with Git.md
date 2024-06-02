@@ -10,7 +10,7 @@ tags:
 
 When you think about `git`, your mind often wanders to GitHub. Most people don't know that you can run `git` even on your computer and only need some simple command to start getting something useful about it.
 
-While [GitHub]() utilizes Git for version control, allowing for collaboration and project sharing online, learning to use Git on your local machine is the first step towards mastering version control.
+While [GitHub](https://github.com/) utilizes Git for version control, allowing for collaboration and project sharing online, learning to use Git on your local machine is the first step towards mastering version control.
 
 In this little guide, I will explore the most basic command, you need to learn to use git locally on your computer.
 

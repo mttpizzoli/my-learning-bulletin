@@ -24,6 +24,7 @@ On this page, I try to organize all my TIL notes by topic. I hope I won't miss a
 ## Good Practice
 - [[The Importance of Commenting While Coding]]
 - [[Sometimes What You Learn in the Past Turns Useful]]
+- [[Combatting Work Interruptions with Focused Writing]]
 
 ## Project Management
 - [[Introduction to Process Management]]

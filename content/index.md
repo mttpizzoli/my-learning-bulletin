@@ -10,5 +10,3 @@ I'd like to avoid calling this a blog, as I don't have a specific theme to addre
 [[Today I Learned]] - This is a collection of short thoughts on what I learn each day!
 
 [[Books and Quotes]] - This is a series of thoughts and reflections on books that I read.
-
----

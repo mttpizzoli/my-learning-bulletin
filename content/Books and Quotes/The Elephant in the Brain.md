@@ -13,3 +13,4 @@ As I started to write this note, I haven't finished it yet, as there are a lot o
 
 - [[Competitive Altruism]]
 - [[Parable of the Redwoods]]
+- [[The Use of Norms]]

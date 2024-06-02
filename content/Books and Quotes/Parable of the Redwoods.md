@@ -2,7 +2,7 @@
 tags:
   - competition
   - human-behavior
-draft: true
+draft: false
 date: 2024-05-14
 ---
 In The Elephant in the Brain, the authors present a unique perspective on competition, using redwoods as an analogy. These trees are described as reaching as high as humanly possible.
