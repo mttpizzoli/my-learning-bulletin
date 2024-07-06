@@ -1,10 +1,10 @@
 ---
 tags:
-  - procurement
-  - project-manager
-  - buy
-  - sell
-  - buyer
+- procurement
+- project-manager
+- buy
+- sell
+- buyer
 type: til-note
 date: 2024-04-21
 draft: false
