@@ -10,6 +10,7 @@ date: 2024-05-14
 I wouldn't call these book summaries. I like to expand and reflect on paragraphs that resonate with me. 
 
 - [[The Elephant in the Brain]]
+- [[The Scout Mindset]]
 
 ## Quotes
 
