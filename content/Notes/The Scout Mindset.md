@@ -3,7 +3,7 @@ tags:
   - human-behavior
   - book-note
 date: 2024-07-28
-draft: true
+draft: false
 title: The Scout Mindset
 ---
 ## Introduction
@@ -16,7 +16,8 @@ When I read the concept of a soldier mindset, the first thought I had was confir
 
 On the other end, the scout mindset seeks the truth. For any topic, controversial or not, a scout wants to know exactly what's going on under the hood. It doesn't stay in her option only because I used to think so.
 
-As the author expresses at the very beginning, neither of us in 100% soldier, nor 100% scout. We are all something in the middle, but somehow, we all lean toward being soldiers. If you explore the book, you will surely see yourself in one of the behaviors.
+As the author expresses at the very beginning, neither of us is 100% soldier, nor 100% scout. We are all something in the middle, but somehow, we all lean toward being soldiers. If you explore the book, you will surely see yourself in one of the behaviors.
 
 ## Notes
 
+[[Dealing with Biases]]
